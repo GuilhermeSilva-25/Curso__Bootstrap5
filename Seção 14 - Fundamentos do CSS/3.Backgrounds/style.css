@@ -1,0 +1,17 @@
+body {
+  background-image: url(lovepik-black-creative-background-image_500872896.jpg);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 96vh;
+}
+
+h1 {
+  background-color: #000;
+  color: white;
+}
+
+p {
+  background-color: #00f;
+  color: #ffa500;
+}

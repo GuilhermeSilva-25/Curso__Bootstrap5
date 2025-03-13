@@ -1,0 +1,37 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+h2 {
+  color: green;
+  font-size: 50px;
+  text-align: center;
+}
+
+/* Este é um comentário */
+
+#subtitulo {
+  color: purple;
+  font-size: 40px;
+}
+
+.paragrafo {
+  color: lightgreen;
+}
+
+.nome {
+  color: orange;
+}
+
+.hexa {
+  color: #ffa600;
+}
+
+.rgba {
+  color: rgba(255, 165, 0, .5);
+  font-size: 60px;
+}
