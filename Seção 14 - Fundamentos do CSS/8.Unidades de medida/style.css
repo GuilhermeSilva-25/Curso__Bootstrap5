@@ -1,0 +1,33 @@
+body {
+  height: 95vh;
+  width: 95vh;
+}
+
+.container {
+  height: 100px;
+  width: 100px;
+}
+
+.pixel {
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+}
+
+.porcetagem {
+  background-color: green;
+  height: 20%;
+  width: 20%;
+}
+
+.em {
+  background-color: blueviolet;
+  height: 2em;
+  width: 2em;
+}
+
+.rem {
+    background-color: brown;
+    height: 2rem;
+    width: 2rem;
+}
